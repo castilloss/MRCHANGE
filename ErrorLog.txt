@@ -1,0 +1,254 @@
+Compañia           : 
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 11/07/2012 11:05:59 AM
+Nombre de la clase : TDMDta
+Descripcion        : Unknown user name or password.
+[Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sa'.
+Alias: DBPA1
+IP Host            : 10.0.0.20
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 11/07/2012 11:05:59 AM
+Nombre de la clase : TFrmAccesos
+Descripcion        : Unknown user name or password.
+[Microsoft][ODBC SQL Server Driver][SQL Server]Login failed for user 'sa'.
+Alias: DBPA1
+IP Host            : 10.0.0.20
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 11/07/2012 11:06:53 AM
+Nombre de la clase : TCurrencyEdit
+Descripcion        : General SQL error.
+[Microsoft][ODBC SQL Server Driver][SQL Server]The EXECUTE permission was denied on the object 'uspActualizaExistencia',
+database 'CTECHSRL', schema 'dbo'.
+IP Host            : 10.0.0.20
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 11/07/2012 11:07:04 AM
+Nombre de la clase : TPanel
+Descripcion        : General SQL error.
+[Microsoft][ODBC SQL Server Driver][SQL Server]The EXECUTE permission was denied on the object 'uspActualizaExistencia',
+database 'CTECHSRL', schema 'dbo'.
+IP Host            : 10.0.0.20
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 18/09/2012 05:15:46 PM
+Nombre de la clase : TwwDBGrid
+Descripcion        : Cannot focus a disabled or invisible window
+IP Host            : 192.168.79.1
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 20/09/2012 03:48:33 PM
+Nombre de la clase : TPanel
+Descripcion        : Cannot focus a disabled or invisible window
+IP Host            : 192.168.79.1
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 20/09/2012 03:48:43 PM
+Nombre de la clase : TPanel
+Descripcion        : Cannot focus a disabled or invisible window
+IP Host            : 192.168.79.1
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 20/09/2012 03:49:00 PM
+Nombre de la clase : TPanel
+Descripcion        : Cannot focus a disabled or invisible window
+IP Host            : 192.168.79.1
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 04/10/2012 11:20:26 AM
+Nombre de la clase : TDMDta
+Descripcion        : General SQL error.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()).
+Alias: DBPA1
+IP Host            : 192.168.79.1
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 04/10/2012 11:20:44 AM
+Nombre de la clase : TFrmAccesos
+Descripcion        : General SQL error.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()).
+Alias: DBPA1
+IP Host            : 192.168.79.1
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 04/10/2012 11:21:08 AM
+Nombre de la clase : TDMDta
+Descripcion        : General SQL error.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()).
+Alias: DBPA1
+IP Host            : 192.168.79.1
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 04/10/2012 11:21:26 AM
+Nombre de la clase : TFrmAccesos
+Descripcion        : General SQL error.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()).
+Alias: DBPA1
+IP Host            : 192.168.79.1
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 04/10/2012 11:22:18 AM
+Nombre de la clase : TDMDta
+Descripcion        : General SQL error.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()).
+Alias: DBPA1
+IP Host            : 192.168.79.1
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 04/10/2012 11:22:36 AM
+Nombre de la clase : TFrmAccesos
+Descripcion        : General SQL error.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()).
+Alias: DBPA1
+IP Host            : 192.168.79.1
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 02/01/2013 06:18:15 PM
+Nombre de la clase : TFrmMenu
+Descripcion        : General SQL error.
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionWrite (send()).
+[Microsoft][ODBC SQL Server Driver][DBNETLIB]General network error. Check your network documentation.
+IP Host            : 10.0.0.22
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 02/01/2013 06:18:20 PM
+Nombre de la clase : TCoolBar
+Descripcion        : Read failure.
+General SQL error.
+[Microsoft][ODBC SQL Server Driver]Communication link failure
+IP Host            : 10.0.0.22
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 12/02/2013 06:03:26 PM
+Nombre de la clase : TppPrintDialog
+Descripcion        : Access violation at address 005CAD75 in module 'pAccounting.exe'. Read of address 0000001D
+IP Host            : 10.0.0.45
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 12/03/2013 12:57:15 PM
+Nombre de la clase : TppPrintPreview
+Descripcion        : No se puede generar informe.
+
+Canvas does not allow drawing
+IP Host            : 10.0.0.7
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 12/03/2013 12:57:32 PM
+Nombre de la clase : TppPrintPreview
+Descripcion        : No se puede generar informe.
+
+Canvas does not allow drawing
+IP Host            : 10.0.0.7
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 01/04/2013 02:22:32 PM
+Nombre de la clase : TppPrintPreview
+Descripcion        : No se puede generar informe.
+
+Canvas does not allow drawing
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 01/04/2013 02:22:49 PM
+Nombre de la clase : TppPrintPreview
+Descripcion        : No se puede generar informe.
+
+Canvas does not allow drawing
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 01/04/2013 02:23:00 PM
+Nombre de la clase : TppPrintPreview
+Descripcion        : No se puede generar informe.
+
+Canvas does not allow drawing
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 01/04/2013 09:35:21 PM
+Nombre de la clase : TFrmMenu
+Descripcion        : Access violation at address 004558FC in module 'pAccounting.exe'. Read of address 00000004
+IP Host            : 10.0.0.6
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 01/04/2013 09:35:23 PM
+Nombre de la clase : TFrmMenu
+Descripcion        : Access violation at address 004558FC in module 'pAccounting.exe'. Read of address 00000004
+IP Host            : 10.0.0.6
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 01/04/2013 09:35:26 PM
+Nombre de la clase : TFrmMenu
+Descripcion        : Access violation at address 004558FC in module 'pAccounting.exe'. Read of address 00000004
+IP Host            : 10.0.0.6
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 01/04/2013 09:35:29 PM
+Nombre de la clase : TFrmMenu
+Descripcion        : Access violation at address 004558FC in module 'pAccounting.exe'. Read of address 00000004
+IP Host            : 10.0.0.6
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 09/04/2013 11:10:29 AM
+Nombre de la clase : TppPrintPreview
+Descripcion        : No se puede generar informe.
+
+Canvas does not allow drawing
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 22/04/2013 06:27:50 PM
+Nombre de la clase : TFrmRepVentas
+Descripcion        : '31/09/2012' is not a valid date
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 23/04/2013 10:52:10 AM
+Nombre de la clase : TFrmRepVentas
+Descripcion        : Read failure.
+General SQL error.
+[Microsoft][ODBC SQL Server Driver]Communication link failure
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 23/04/2013 10:57:10 AM
+Nombre de la clase : TppPrintDialog
+Descripcion        : Access violation at address 005CAD75 in module 'pAccounting.exe'. Read of address 0000001D
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 23/04/2013 11:10:08 AM
+Nombre de la clase : TppPrintDialog
+Descripcion        : Access violation at address 005CAD75 in module 'pAccounting.exe'. Read of address 0000001D
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 23/04/2013 11:15:46 AM
+Nombre de la clase : TppPrintDialog
+Descripcion        : Access violation at address 005CAD75 in module 'pAccounting.exe'. Read of address 0000001D
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 10/05/2013 02:07:45 PM
+Nombre de la clase : TppPrintPreview
+Descripcion        : No se puede generar informe.
+
+Canvas does not allow drawing
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 10/05/2013 02:12:38 PM
+Nombre de la clase : TppPrintPreview
+Descripcion        : No se puede generar informe.
+
+Canvas does not allow drawing
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 10/05/2013 02:13:40 PM
+Nombre de la clase : TppPrintPreview
+Descripcion        : No se puede generar informe.
+
+Canvas does not allow drawing
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 10/05/2013 02:17:35 PM
+Nombre de la clase : TppPrintPreview
+Descripcion        : No se puede generar informe.
+
+Canvas does not allow drawing
+IP Host            : 10.0.0.11
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 20/05/2013 02:32:41 PM
+Nombre de la clase : TppPrintDialog
+Descripcion        : Access violation at address 005CAD75 in module 'pAccounting.exe'. Read of address 0000001D
+IP Host            : 10.0.0.234
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 20/05/2013 02:33:09 PM
+Nombre de la clase : TppPrintDialog
+Descripcion        : Access violation at address 005CAD75 in module 'pAccounting.exe'. Read of address 0000001D
+IP Host            : 10.0.0.234
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 20/05/2013 04:31:18 PM
+Nombre de la clase : TppPrintDialog
+Descripcion        : Access violation at address 005CAD75 in module 'pAccounting.exe'. Read of address 0000001D
+IP Host            : 10.0.0.234
+------------------------------------------------------------------------------------------------------------------------
+Fecha/Hora         : 20/05/2013 06:11:50 PM
+Nombre de la clase : TppPrintDialog
+Descripcion        : Access violation at address 005CAD75 in module 'pAccounting.exe'. Read of address 0000001D
+IP Host            : 10.0.0.234
+------------------------------------------------------------------------------------------------------------------------
